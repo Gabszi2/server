@@ -1,5 +1,67 @@
 {
+  foods:[
+    {
+      "id":2,
+      "name":"Rakott káposzta",
+      "price": 2000,
+      "availble":false
+    },
+  {
+      "id":3,
+      "name":"Halászlé",
+      "price": 3000,
+      "availble":true
+    },
+  {
+      "id":4,
+      "name":"Gulyásleves",
+      "price": 2500,
+      "availble":true
+    },
+  {
+      "id":5,
+      "name":"Rántott töltött karaly",
+      "price": 1500,
+      "availble":true
+    },
+  {
+      "id":6,
+      "name":"Sült pisztráng",
+      "price": 2800,
+      "availble":true
+    },
+  {
+      "id":7,
+      "name":"Sültkrumpli",
+      "price": 500,
+      "availble":false
+    },
+  {
+      "id":8,
+      "name":"Párolt rizs",
+      "price": 300,
+      "availble":true
+    },
+  {
+      "id":9,
+      "name":"Burgonypüré",
+      "price": 200,
+      "availble":false
+    },
+  {
+      "id":10,
+      "name":"Vörösboros marhapörkölt",
+      "price": 3500,
+      "availble":true
+    },
+  {
+      "id":11,
+      "name":"Pacalpörkölt",
+      "price": 4000,
+      "availble":false
+    },
   
+  ],
   "profile": {
     "name": "typicode"
   }
