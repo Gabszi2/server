@@ -59,9 +59,9 @@
       "name":"Pacalpörkölt",
       "price": 4000,
       "availble":false
-    },
+    }
   
-  ]
+  ],
   "profile": {
     "name": "typicode"
   }
