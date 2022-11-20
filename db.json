@@ -1,6 +1,6 @@
 {
   "foods":[
-    {"id":2,
+    {"id":1,
       "name":"Akciós",
       "price": 0,
       "available":true
