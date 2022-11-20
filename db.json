@@ -1,5 +1,10 @@
 {
   "foods":[
+    {"id":2,
+      "name":"Akciós",
+      "price": 0,
+      "available":true
+    },
     {
       "id":2,
       "name":"Rakott káposzta",
